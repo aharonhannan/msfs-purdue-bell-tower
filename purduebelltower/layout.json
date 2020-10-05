@@ -1,0 +1,304 @@
+{
+  "content": [
+    {
+      "path": "Business.json",
+      "size": 122,
+      "date": 132399269780000000
+    },
+    {
+      "path": "ContentInfo/PurdueBellTower/Thumbnail.jpg",
+      "size": 13520,
+      "date": 132399269780000000
+    },
+    {
+      "path": "manifest.json",
+      "size": 270,
+      "date": 132463595930940324
+    },
+    {
+      "path": "scenery/global/scenery/modelLib.BGL",
+      "size": 1288284,
+      "date": 132463620182094152
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/F-00000-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132463595922689980
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/F-00000-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132463595922639969
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/F-00001-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132463595920949977
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/F-00001-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132463595920889974
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/F-00005-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132463595923679965
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/F-00005-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132463595923619962
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/F-00013-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132463595928539975
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/F-00013-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132463595928479972
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/F-00014-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132463595919329982
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/F-00014-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132463595919259975
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/F-00016-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132463595928059961
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/F-00016-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132463595928049970
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/F-00020-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132463595918269964
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/F-00020-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132463595918209956
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/F-00021-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132463595925259971
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/F-00021-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132463595925189972
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/F-00055-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132463595924199985
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/F-00055-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132463595924119990
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/F-00062-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132463595922339971
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/F-00062-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132463595922279966
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/F-00068-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132463595926809969
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/F-00068-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132463595926739974
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/F-00069-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132463595918989971
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/F-00069-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132463595918939985
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/F-00101-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132463595925889975
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/F-00101-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132463595925829964
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/F-00106-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132463595917849991
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/F-00106-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132463595917779987
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/F-00110-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132463595921469993
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/F-00110-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132463595921389976
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/F-00112-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132463595921899960
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/F-00112-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132463595921839959
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/F-00140-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132463595920079989
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/F-00140-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132463595920009978
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/F-00160-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132463595924739985
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/F-00160-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132463595924659973
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/F-00166-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132463595927279977
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/F-00166-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132463595927219986
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/F-00171-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132463595920569973
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/F-00171-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132463595920519985
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/F-00183-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132463595923369978
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/F-00183-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132463595923319985
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/F-00189-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132463595927779990
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/F-00189-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132463595927709979
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/F-00196-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132463595926439991
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/F-00196-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132463595926369987
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/F-00214-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132463595917479980
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/F-00214-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132463595917419991
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/F-00216-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132463595929039978
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/F-00216-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132463595928969983
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/F-00220-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132463595916969976
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/F-00220-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132463595916899980
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/F-00345-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132463595919679972
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/F-00345-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132463595919609986
+    },
+    {
+      "path": "scenery/world/scenery/PurdueBellTowerSCN.bgl",
+      "size": 156,
+      "date": 132463620182444747
+    },
+    {
+      "path": "scenery/world/scenery/PURDUEBELLTOWERSHP.BGL",
+      "size": 907,
+      "date": 132463620182544830
+    }
+  ]
+}
