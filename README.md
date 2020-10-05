@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# msfs-purdue-bell-tower
-Purdue Bell Tower 3D Object for Microsoft Flight Scenery
-=======
 # Purdue Bell Tower Microsoft Flight Simulator 2020
 
 The Purdue Bell Tower was not included in the default Bing 3D photogrammetry. This package is a 3D model imported from Google Maps, processed in Blender, and exported for MSFS.
@@ -39,4 +35,3 @@ The bell tower was created with the help of Google Maps, [RenderDoc](https://ren
 
 
 Enjoy, and Boiler Up!
->>>>>>> f1c3d5b... Initial commit
